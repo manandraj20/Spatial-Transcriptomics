@@ -5,6 +5,8 @@ Spatial Transcriptomics is an overarching term for a range of methods designed
 for assigning cell types(identified by mRNA readouts) to their locations in the
 histological sections. This method can also be used to determine subcellular
 localisation of mRNA molecules.
+
+
 The Stahl method implies positioning individual tissue samples on the arrays
 of spatially barcoded reverse transcription primers able to capture mRNA with
 oligo(dT) tails. Besides oligo(dT) tails and spatial barcode, which indicates
