@@ -12,11 +12,14 @@ of spatially barcoded reverse transcription primers able to capture mRNA with
 oligo(dT) tails. Besides oligo(dT) tails and spatial barcode, which indicates
 the x and y position on the arrayed slide, the probe contains a cleavage site,
 amplification and sequencing handle, and unique molecular identifier.
+
+
 In the broader meaning of this term, spatial transcriptomics include methods
 that can be divided into five principal approaches to resolving spatial distribution
 of transcripts. They are microdissection techniques, Fluorescent techniques
 in situ hybridisation methods, in situ sequencing, in situ capture protocols and
 in silico approaches.
+
 What we do at our labs is in silico analysis. We are provided with the
 Single-cell data and the spatial transcriptomic data. Single cell data contain
 the information regarding the distribution of mRNA counts in specific cells.
