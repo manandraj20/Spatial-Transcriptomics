@@ -1,5 +1,5 @@
 # Spatial-Transcriptomics
-Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution
+##Benchmarking spatial and single-cell transcriptomics integration methods for transcript distribution prediction and cell type deconvolution
 
 Spatial Transcriptomics is an overarching term for a range of methods designed
 for assigning cell types(identified by mRNA readouts) to their locations in the
