@@ -40,3 +40,6 @@ captures the variability within its respective cell types. A neural framework
 maps γn and cn to ρng. The other st-model also relies on Negative Binomial
 distribution. Finally, we deconvolute the sc-model with the st-model getting
 the final disttribution at each spot.
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
+- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
