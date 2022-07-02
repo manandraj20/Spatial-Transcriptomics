@@ -40,5 +40,3 @@ captures the variability within its respective cell types. A neural framework
 maps γn and cn to ρng. The other st-model also relies on Negative Binomial
 distribution. Finally, we deconvolute the sc-model with the st-model getting
 the final disttribution at each spot.
-$`\sqrt{2}`$
-<pre xml:lang="latex">\sqrt{2}</pre>
